@@ -22,4 +22,19 @@ The enquiry page will allow customers to submit custom cake requirements, prefer
 Record the planned stages of research, wireframing, development, testing, improvements and final submission.
 Part 1 Details: Include the completed website proposal and planning information. Part 2 and Part 3 will be added during future submissions and website development stages.
 Sitemap: Document the website structure, for example:
+# Repository Changelog
 
+Part 2 Updates
+Corrections from Part 1
+Resolved broken HTML tags duplicated navigation lists in About.html
+Form Structure: Corrected duplicate attributes in Enquiry.html
+
+CSS & Visual Enhancements
+Stylesheet Creation: Created external css/style.css stylesheet and linked it across all pages via `<link rel="stylesheet">`.
+Base Reset & Typography: Applied a modern CSS box-sizing reset
+Layout & Visual Styling: Built flexible layouts using CSS
+Form Elements: Formatted input fields and buttons with focus outlines, uniform padding, and hover states.
+
+Responsive Design
+Breakpoints: Configured media queries for desktop, tablet (`768px`), and mobile (`480px`) screens.
+Adaptive Images: Added dynamic image sizing rules (`max-width: 100%`) alongside `sizes` and `picture` elements for flexible image scaling across screens.
