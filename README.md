@@ -69,6 +69,8 @@ style(css): create external style.css stylesheet.
 
 style(base): add universal CSS reset and root color variables.
 
+content(contact): format operating hours and contact channels.
+
 
  refactor(css): reorganize style sheet into distinct functional sections.
 
