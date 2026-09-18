@@ -62,7 +62,10 @@ Sub headings: provided sub headings.
 
 feat(init): initialize repository structure and add base HTML files.
 
-fix(html): correct broken list tags and duplicate IDs in Enquiry.html.   
+fix(html): correct broken list tags and duplicate IDs in Enquiry.html. 
+
+
+ refactor(css): reorganize style sheet into distinct functional sections.
 
 fix(nav): standardize top navigation links across all HTML pages.   
 
