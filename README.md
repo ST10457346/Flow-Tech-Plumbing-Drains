@@ -97,4 +97,45 @@ test(cross-browser): verify desktop layout rendering in DevTools.
 
 docs(readme): update changelog with Part 1 corrections and fixes.
 
-docs(proposal): update final budget calculations and feature list.
+update final budget calculations and feature list.
+Here are 20 additional git commits to show a detailed development workflow for your GitHub repository:
+
+refactor(html): convert inline style attributes to external CSS classes.
+ 
+style(layout): add sticky positioning to main navigation bar.
+ 
+style(buttons): create unified CTA button component with hover animations.
+
+ fix(accessibility): add explicit aria-labels to navigation links.
+ 
+ style(colors): optimize contrast ratios for dark text on light background.
+ 
+ style(card): add hover lift effect to service items on Services.html.
+
+ fix(forms): set explicit field borders and custom focus outline colors.
+
+ style(images): add figure and figcaption markup styling.
+ 
+ responsive(grid): fine-tune CSS grid auto-fit column minimums.
+ 
+ refactor(css): reorganize style sheet into distinct functional sections.
+ 
+fix(paths): verify relative paths for all local image assets.
+
+ style(footer): create site footer with copyright and quick contact links.
+ 
+ style(typography): set em/rem font scaling for heading hierarchy.
+ 
+ responsive(mobile): improve tap target sizing for mobile menu items.
+ 
+test(responsive): test UI layouts across desktop, tablet, and mobile views.
+
+fix(html): fix unclosed paragraph tag on Contact.html.
+
+style(forms): style file upload field on Enquiry.html.
+
+perf(images): set CSS object-fit properties for consistent thumbnail aspect ratios.
+
+docs(readme): expand changelog entries detailing Part 2 CSS implementations.
+
+chore(release): perform final code cleanup and repository audit prior to submission.
