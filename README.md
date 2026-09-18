@@ -58,3 +58,43 @@ Services: added prices for all the tools.
 
 
 Sub headings: provided sub headings.
+
+feat(init): initialize repository structure and add base HTML files.
+
+fix(html): correct broken list tags and duplicate IDs in Enquiry.html.   
+
+fix(nav): standardize top navigation links across all HTML pages.   
+
+style(css): create external style.css stylesheet.
+
+style(base): add universal CSS reset and root color variables.
+
+style(type): establish typography scale, font stack, and heading styles.
+
+style(nav): design responsive navigation bar using Flexbox.
+
+style(nav): implement hover, focus, and active pseudo-class states.
+
+style(layout): add max-width container and align core page elements.
+
+style(images): make images fluid with max-width and box-shadows.
+
+style(services): implement CSS Grid for visual price list cards.
+
+style(forms): style inputs and textareas on Enquiry.html.
+
+style(forms): add outline and glow focus effects to form inputs.
+
+responsive(media): add 768px breakpoint for tablet layouts.
+
+responsive(media): add 480px breakpoint for mobile screen stacking.
+
+content(about): update history, mission, and vision content structure.
+
+content(contact): format operating hours and contact channels.
+
+test(cross-browser): verify desktop layout rendering in DevTools.
+
+docs(readme): update changelog with Part 1 corrections and fixes.
+
+docs(proposal): update final budget calculations and feature list.
