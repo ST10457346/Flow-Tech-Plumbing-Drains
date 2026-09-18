@@ -134,6 +134,7 @@ fix(html): fix unclosed paragraph tag on Contact.html.
 
 style(forms): style file upload field on Enquiry.html.
 
+
 perf(images): set CSS object-fit properties for consistent thumbnail aspect ratios.
 
 
