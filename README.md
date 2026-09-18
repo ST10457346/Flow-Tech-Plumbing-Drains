@@ -94,7 +94,7 @@ responsive(media): add 480px breakpoint for mobile screen stacking.
 
 content(about): update history, mission, and vision content structure.
 
-content(contact): format operating hours and contact channels.
+
 
 test(cross-browser): verify desktop layout rendering in DevTools.
 
