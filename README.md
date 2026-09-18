@@ -38,3 +38,7 @@ Form Elements: Formatted input fields and buttons with focus outlines, uniform p
 Responsive Design
 Breakpoints: Configured media queries for desktop, tablet (`768px`), and mobile (`480px`) screens.
 Adaptive Images: Added dynamic image sizing rules (`max-width: 100%`) alongside `sizes` and `picture` elements for flexible image scaling across screens.
+
+footer: added a footer in part 2.
+Services: added prices for all the tools.
+Sub headings: provided sub headings.
