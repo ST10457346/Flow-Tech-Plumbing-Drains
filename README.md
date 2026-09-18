@@ -53,6 +53,7 @@ Adaptive Images: Added dynamic image sizing rules (`max-width: 100%`) alongside 
 
 footer: added a footer in part 2.
 
+style(services): implement CSS Grid for visual price list cards.
 
 Services: added prices for all the tools.
 
