@@ -122,7 +122,6 @@ style(buttons): create unified CTA button component with hover animations.
  
  style(colors): optimize contrast ratios for dark text on light background.
  
- style(card): add hover lift effect to service items on Services.html.
 
 
 
