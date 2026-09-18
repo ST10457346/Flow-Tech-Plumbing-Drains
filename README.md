@@ -126,7 +126,7 @@ style(buttons): create unified CTA button component with hover animations.
  
 fix(paths): verify relative paths for all local image assets.
 
- style(footer): create site footer with copyright and quick contact links.
+
  
  style(typography): set em/rem font scaling for heading hierarchy.
  
