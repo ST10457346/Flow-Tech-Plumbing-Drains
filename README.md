@@ -136,6 +136,6 @@ style(forms): style file upload field on Enquiry.html.
 
 perf(images): set CSS object-fit properties for consistent thumbnail aspect ratios.
 
-docs(readme): expand changelog entries detailing Part 2 CSS implementations.
+
 
 chore(release): perform final code cleanup and repository audit prior to submission.
