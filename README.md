@@ -92,7 +92,7 @@ style(forms): add outline and glow focus effects to form inputs.
 
 responsive(media): add 768px breakpoint for tablet layouts.
 
-responsive(media): add 480px breakpoint for mobile screen stacking.
+
 
 content(about): update history, mission, and vision content structure.
 
