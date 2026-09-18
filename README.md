@@ -73,6 +73,8 @@ style(base): add universal CSS reset and root color variables.
 content(contact): format operating hours and contact channels.
 
 
+ style(card): add hover lift effect to service items on Services.html.
+
  refactor(css): reorganize style sheet into distinct functional sections.
 
  responsive(media): add 480px breakpoint for mobile screen stacking.
