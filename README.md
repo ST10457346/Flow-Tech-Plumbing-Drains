@@ -112,6 +112,8 @@ style(layout): add sticky positioning to main navigation bar.
 style(buttons): create unified CTA button component with hover animations.
 
  fix(accessibility): add explicit aria-labels to navigation links.
+
+  style(footer): create site footer with copyright and quick contact links.
  
  style(colors): optimize contrast ratios for dark text on light background.
  
