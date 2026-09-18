@@ -85,7 +85,6 @@ style(type): establish typography scale, font stack, and heading styles.
 
 style(nav): design responsive navigation bar using Flexbox.
 
-style(nav): implement hover, focus, and active pseudo-class states.
 
 style(layout): add max-width container and align core page elements.
 
