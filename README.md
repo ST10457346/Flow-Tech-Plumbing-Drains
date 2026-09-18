@@ -86,7 +86,7 @@ style(layout): add max-width container and align core page elements.
 
 style(images): make images fluid with max-width and box-shadows.
 
-style(services): implement CSS Grid for visual price list cards.
+
 
 style(forms): style inputs and textareas on Enquiry.html.
 
