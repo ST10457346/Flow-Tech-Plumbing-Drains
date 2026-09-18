@@ -119,7 +119,7 @@ style(buttons): create unified CTA button component with hover animations.
  
  style(card): add hover lift effect to service items on Services.html.
 
- fix(forms): set explicit field borders and custom focus outline colors.
+
 
  style(images): add figure and figcaption markup styling.
  
