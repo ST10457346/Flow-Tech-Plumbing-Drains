@@ -64,7 +64,6 @@ feat(init): initialize repository structure and add base HTML files.
 
 fix(html): correct broken list tags and duplicate IDs in Enquiry.html. 
 
-
  refactor(css): reorganize style sheet into distinct functional sections.
 
 fix(nav): standardize top navigation links across all HTML pages.   
@@ -75,32 +74,24 @@ style(base): add universal CSS reset and root color variables.
 
 content(contact): format operating hours and contact channels.
 
-
  style(card): add hover lift effect to service items on Services.html.
 
-
  responsive(media): add 480px breakpoint for mobile screen stacking.
-
 
 style(nav): implement hover, focus, and active pseudo-class states.
 style(type): establish typography scale, font stack, and heading styles.
 
 style(nav): design responsive navigation bar using Flexbox.
 
-
 style(layout): add max-width container and align core page elements.
 
 style(images): make images fluid with max-width and box-shadows.
-
-
 
 style(forms): style inputs and textareas on Enquiry.html.
 
 style(forms): add outline and glow focus effects to form inputs.
 
 responsive(media): add 768px breakpoint for tablet layouts.
-
-
 
 content(about): update history, mission, and vision content structure.
 
@@ -127,18 +118,12 @@ style(buttons): create unified CTA button component with hover animations.
  
  style(colors): optimize contrast ratios for dark text on light background.
  
-
-
-
  style(images): add figure and figcaption markup styling.
  
  responsive(grid): fine-tune CSS grid auto-fit column minimums.
- 
- 
-fix(paths): verify relative paths for all local image assets.
 
+ fix(paths): verify relative paths for all local image assets.
 
- 
  style(typography): set em/rem font scaling for heading hierarchy.
  
  responsive(mobile): improve tap target sizing for mobile menu items.
@@ -149,9 +134,12 @@ fix(html): fix unclosed paragraph tag on Contact.html.
 
 style(forms): style file upload field on Enquiry.html.
 
-
 perf(images): set CSS object-fit properties for consistent thumbnail aspect ratios.
 
-
-
 chore(release): perform final code cleanup and repository audit prior to submission.
+
+changelog: correct broken list tags and duplicate IDs in Enquiry.html.
+I added more information for my home page.
+i added a css and i added a sitemap. 
+i added an embedded map.
+i added a footer.
