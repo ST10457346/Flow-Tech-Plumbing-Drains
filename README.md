@@ -31,21 +31,30 @@ Form Structure: Corrected duplicate attributes in Enquiry.html
 
 CSS & Visual Enhancements.
 
+
 Stylesheet Creation: Created external css/style.css stylesheet and linked it across all pages via `<link rel="stylesheet">`.
 
-Base Reset & Typography: Applied a modern CSS box-sizing reset
 
-Layout & Visual Styling: Built flexible layouts using CSS
+Base Reset & Typography: Applied a modern CSS box-sizing reset.
+
+
+Layout & Visual Styling: Built flexible layouts using CSS.
+
 
 Form Elements: Formatted input fields and buttons with focus outlines, uniform padding, and hover states.
+
 
 Responsive Design
 Breakpoints: Configured media queries for desktop, tablet (`768px`), and mobile (`480px`) screens.
 
+
 Adaptive Images: Added dynamic image sizing rules (`max-width: 100%`) alongside `sizes` and `picture` elements for flexible image scaling across screens.
+
 
 footer: added a footer in part 2.
 
+
 Services: added prices for all the tools.
+
 
 Sub headings: provided sub headings.
