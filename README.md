@@ -81,6 +81,8 @@ content(contact): format operating hours and contact channels.
 
  responsive(media): add 480px breakpoint for mobile screen stacking.
 
+
+style(nav): implement hover, focus, and active pseudo-class states.
 style(type): establish typography scale, font stack, and heading styles.
 
 style(nav): design responsive navigation bar using Flexbox.
