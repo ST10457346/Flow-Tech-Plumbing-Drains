@@ -74,6 +74,8 @@ content(contact): format operating hours and contact channels.
 
  refactor(css): reorganize style sheet into distinct functional sections.
 
+ responsive(media): add 480px breakpoint for mobile screen stacking.
+
 style(type): establish typography scale, font stack, and heading styles.
 
 style(nav): design responsive navigation bar using Flexbox.
