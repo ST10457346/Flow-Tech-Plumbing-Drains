@@ -5,3 +5,4 @@ feat: add JavaScript to toggle burger dropdown menu
 fix: move nav inside body to correct invalid HTML structure
 style: align burger button to the right of the top bar
 style: show full navbar on wide screens and burger on small screens
+feat: add service dropdown and problem description to enquiry form
