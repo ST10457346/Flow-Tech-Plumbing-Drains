@@ -10,3 +10,4 @@ fix: correct image file paths and update company email address
 feat: close burger menu when tapping outside or resizing
 feat: add service dropdown and problem description to enquiry form
 style: add mobile media query at 480px
+style: style main container with card layout
