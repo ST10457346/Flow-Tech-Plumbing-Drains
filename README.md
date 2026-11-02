@@ -12,3 +12,4 @@ feat: add service dropdown and problem description to enquiry form
 style: add mobile media query at 480px
 style: style main container with card layout
 feat: add footer with opening hours and contact email
+chore: create css, Javascript, Image and Assets folders
