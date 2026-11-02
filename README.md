@@ -6,3 +6,4 @@ fix: move nav inside body to correct invalid HTML structure
 style: align burger button to the right of the top bar
 style: show full navbar on wide screens and burger on small screens
 feat: add service dropdown and problem description to enquiry form
+fix: correct image file paths and update company email address
